@@ -1,9 +1,9 @@
 # UD28
 <h1> TAREA 28</h1>
 
-Ejercicio1 - https://danimartos23.github.io/UD28/Ejercicio1/index.html
+Ejercicio1 - https://danimartos23.github.io/UD28/Ejercicio1/Ejercicio1.html
 
-Ejercicio2 - https://danimartos23.github.io/UD28/Ejercicio2/index.html
+Ejercicio2 - https://danimartos23.github.io/UD28/Ejercicio2/Ejercicio2.html
 
 Ejercicio3 - https://danimartos23.github.io/UD28/Ejercicio3/index.html
 
