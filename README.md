@@ -1,6 +1,5 @@
 # UD28
 <h1> TAREA 28</h1>
-<a href="https://danimartos23.github.io/UD28/Ejercicio1/Ejercicio1.html"> Ejercicio1</a>
 
 Ejercicio1 - https://danimartos23.github.io/UD28/Ejercicio1/Ejercicio1.html
 
