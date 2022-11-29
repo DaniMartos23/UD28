@@ -1,23 +1,23 @@
 # UD28
 <h1> TAREA 28</h1>
 
-<a href="https://danimartos23.github.io/UD28/Ejercicio1">Ejercicio1</a>
+Ejercicio1 - https://danimartos23.github.io/UD28/Ejercicio1
 
-<a href="https://danimartos23.github.io/UD28/Ejercicio2">Ejercicio2</a>
+Ejercicio2 - https://danimartos23.github.io/UD28/Ejercicio2
 
-<a href="https://danimartos23.github.io/UD28/Ejercicio3">Ejercicio3</a>
+Ejercicio3 - https://danimartos23.github.io/UD28/Ejercicio3
 
-<a href="https://danimartos23.github.io/UD28/Ejercicio4">Ejercicio4</a>
+Ejercicio4 - https://danimartos23.github.io/UD28/Ejercicio4
 
-<a href="https://danimartos23.github.io/UD28/Ejercicio5">Ejercicio5</a>
+Ejercicio5 - https://danimartos23.github.io/UD28/Ejercicio5
 
-<a href="https://danimartos23.github.io/UD28/parquenatural\(Ejercicio6\)">Ejercicio6</a>
+Ejercicio6 - https://danimartos23.github.io/UD28/parquenatural\(Ejercicio6\)
 
-<a href="https://danimartos23.github.io/UD28/parquenatural\(Ejercicio7\)">Ejercicio7</a>
+Ejercicio7 - https://danimartos23.github.io/UD28/parquenatural\(Ejercicio7\)
 
-<a href="https://danimartos23.github.io/UD28/parquenatural\(Ejercicio8\)">Ejercicio8</a>
+Ejercicio8 - https://danimartos23.github.io/UD28/parquenatural\(Ejercicio8\)
 
-<a href="https://danimartos23.github.io/UD28/parquenatural\(Ejercicio9\)">Ejercicio9</a>
+Ejercicio9 - https://danimartos23.github.io/UD28/parquenatural\(Ejercicio9\)
 
-<a href="https://danimartos23.github.io/UD28/parquenatural\(Ejercicio10\)">Ejercicio10</a>
+Ejercicio10 - https://danimartos23.github.io/UD28/parquenatural\(Ejercicio10\)
 
