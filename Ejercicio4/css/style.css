@@ -1,0 +1,32 @@
+body{
+    background-color:antiquewhite;
+}
+p{
+    padding-bottom: 1.5pt;
+}
+h1{
+    background-color:gold;
+    padding-bottom: 1.5pt;
+    -webkit-text-fill-color:gray;
+    font-size: 18pt;
+    font-weight: bold;
+}
+h2{
+    padding-bottom: 1.5pt;
+    -webkit-text-fill-color:rgb(115, 165, 223);
+    font-style:italic;
+    font-weight: bold;
+}
+li{
+    padding-bottom: 1.5pt;
+}
+ul{
+    list-style-type: none;
+}
+strong{
+    -webkit-text-fill-color:rgb(120, 142, 204);
+}
+em{
+    -webkit-text-fill-color:rgb(120, 142, 204);
+}
+
