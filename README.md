@@ -1,5 +1,4 @@
 # UD28
-<h1> TAREA 28</h1>
 
 Ejercicio1 - https://danimartos23.github.io/UD28/Ejercicio1/Ejercicio1.html
 
