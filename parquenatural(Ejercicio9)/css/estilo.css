@@ -1,0 +1,60 @@
+body{
+    border: rgb(221, 221, 221) 6px solid ;
+    width: 900px;
+    align-self: center;
+}
+h1{
+    color :rgb(100,155,61);
+    text-align: center;
+}
+h1 span{
+    color: rgb(194, 131, 54);
+}
+h2{
+    color: rgb(130,177 ,6);
+    border-bottom: rgb(234, 241, 223) 2px solid;
+}
+#maincont{
+    padding: 15px;
+}
+#container{
+    border: rgb(230, 230, 230) 2px solid;
+    padding: 15px;
+}
+h3{
+    color:rgb(217, 164, 89)
+}
+#menu{
+    width: 120px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+}
+
+#menu li{
+    text-align: center;
+    list-style-type: none;
+    margin-bottom : 5px;
+    background-color: rgb(203, 231, 131);
+    line-height: 25px;
+    
+}
+#menu li.btnselected{
+    background-color: rgb(229, 205, 178);
+}
+#menu li.btnselected:hover{
+    background-color: rgb(233, 225, 216);
+}
+#menu li:hover{
+    background-color: rgb(147, 228, 154);
+}
+
+#container{
+    display: block;
+    margin:20px 20px 10px 140px;
+}
+#menu{
+    float: left; 
+}
